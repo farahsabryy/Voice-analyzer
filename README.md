@@ -19,6 +19,7 @@ This MATLAB-based Voice Spectrum Analyzer provides a graphical user interface (G
 .
 ├── voiceCapture.m           # Main MATLAB script with GUI
 ├── README.md                # Project documentation
+|--- LaTex_Report            #Project Report
 └── references.bib           # Bibliography for citations
 ```
 
